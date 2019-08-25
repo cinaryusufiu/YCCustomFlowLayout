@@ -5,7 +5,7 @@ Pod::Spec.new do |spec|
 spec.name         = "YCCustomFlowLayout"
 spec.version      = "0.1.0"
 spec.summary      = "Custom Flow Layout"
-
+spec.swift_version = "5.0"
 spec.description  = <<-DESC
 You can create CustomFlowLayout
 DESC
@@ -17,5 +17,5 @@ spec.social_media_url   = "https://twitter.com/cinaryusufiu"
 spec.source       = { :git => "https://github.com/cinaryusufiu/YCCustomFlowLayout", :tag => "#{spec.version}" }
 
 spec.source_files = 'YCCustomFlowLayout/YCCustomFlowLayout.swift'
-spec.ios.deployment_target = '11.0'
+spec.ios.deployment_target = '12.2'
 end
