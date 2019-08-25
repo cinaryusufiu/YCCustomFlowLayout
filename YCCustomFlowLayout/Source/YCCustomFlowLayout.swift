@@ -17,7 +17,7 @@ protocol YCCustomFlowLayoutDatasource: NSObjectProtocol {
 
 class YCCustomFlowLayout: UICollectionViewLayout {
     
-    weak var dataSource : YCCustomFlowLayoutDatasource?
+    public weak var dataSource : YCCustomFlowLayoutDatasource?
     
     fileprivate var numberOfColumns = 2
     fileprivate var cellPadding : CGFloat = 6
