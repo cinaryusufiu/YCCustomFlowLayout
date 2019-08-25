@@ -2,9 +2,9 @@
 
 ## SCREENSHOT
 
-![YCCustomFlowLayout](https://github.com/cinaryusufiu/YCCustomLayout/blob/master/YCCustomLayout/2pe7um.gif) 
+![YCCustomFlowLayout](https://github.com/cinaryusufiu/YCCustomFlowLayout/blob/master/YCCustomFlowLayout/2pe7um.gif) 
 
-![YCCustomFlowLayout2](https://github.com/cinaryusufiu/YCCustomLayout/blob/master/YCCustomLayout/2pe7xg.gif)
+![YCCustomFlowLayout2](https://github.com/cinaryusufiu/YCCustomFlowLayout/blob/master/YCCustomFlowLayout/2pe7xg.gif)
 
 ## Installation
 
