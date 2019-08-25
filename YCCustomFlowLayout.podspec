@@ -16,6 +16,7 @@ spec.author             = { "Yusuf Cinar" => "cinaryusufiu@gmail.com" }
 spec.social_media_url   = "https://twitter.com/cinaryusufiu"
 spec.source       = { :git => "https://github.com/cinaryusufiu/YCCustomFlowLayout", :tag => "#{spec.version}" }
 
-spec.source_files = 'YCCustomFlowLayout/YCCustomFlowLayout.swift'
+spec.source_files = 'Classes/*.{h,m}'
+
 spec.ios.deployment_target = '12.2'
 end
