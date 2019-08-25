@@ -53,7 +53,7 @@ extension ViewController : UICollectionViewDataSource, YCCustomFlowLayoutDatasou
         cell.layer.borderWidth = 2
         return cell
     }
-    //MARK: YCCustomLayoutDatasource
+    //MARK: YCCustomFlowLayoutDatasource
     func numberOfColomns() -> Int {
         return 3
     }
