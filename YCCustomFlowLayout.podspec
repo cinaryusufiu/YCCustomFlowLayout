@@ -3,7 +3,7 @@ Pod::Spec.new do |spec|
 
 
 spec.name         = "YCCustomFlowLayout"
-spec.version      = "0.1.2"
+spec.version      = "0.1.3"
 spec.summary      = "Custom Flow Layout"
 spec.swift_version = "5.0"
 spec.description  = <<-DESC
