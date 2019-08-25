@@ -37,6 +37,14 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		C483755C231236AD00F8285F /* Source */ = {
+			isa = PBXGroup;
+			children = (
+				C48A3109231206E30074E708 /* YCCustomFlowLayout.swift */,
+			);
+			path = Source;
+			sourceTree = "<group>";
+		};
 		C48A30EB231206BF0074E708 = {
 			isa = PBXGroup;
 			children = (
@@ -56,7 +64,7 @@
 		C48A30F6231206BF0074E708 /* YCCustomFlowLayout */ = {
 			isa = PBXGroup;
 			children = (
-				C48A3109231206E30074E708 /* YCCustomFlowLayout.swift */,
+				C483755C231236AD00F8285F /* Source */,
 				C48A30F7231206BF0074E708 /* AppDelegate.swift */,
 				C48A30F9231206BF0074E708 /* ViewController.swift */,
 				C48A30FB231206BF0074E708 /* Main.storyboard */,
